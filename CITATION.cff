@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this archive."
+title: "PPR_RAD_Korea v9.10: code for a wildlife-borne PPR incursion model of the Korean Peninsula"
+version: "9.10"
+date-released: 2026-11-27
+license: MIT
+authors:
+  - family-names: Ahmad
+    given-names: Saleem
+  - family-names: Park
+    given-names: Jinyoung
+  - family-names: Jeong
+    given-names: Jin-ho
+  - family-names: Jang
+    given-names: Hyewon
+  - family-names: Yoo
+    given-names: Dae Sung

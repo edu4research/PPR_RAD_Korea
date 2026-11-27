@@ -1,0 +1,18 @@
+# Conda environment used for every run reported in the paper (Python 3.9.20); tested again on Python 3.12 / NumPy 1.26.
+# conda env create -f environment.yml && conda activate ppr_rad
+name: ppr_rad
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9.20
+  - numpy=1.26.4
+  - scipy=1.13.1
+  - pandas
+  - gdal=3.8.4
+  - matplotlib=3.9.2
+  - lifelines        # code/ppr_sa_survival_checks.py only
+  - statsmodels      # code/ppr_sa_survival.py fallback only
+  # code/rok_goat_fill.py only (rebuilds the ROK goat layer from the national register, which is not shared):
+  - rasterio
+  - pyshp
+  - shapely

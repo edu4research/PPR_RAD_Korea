@@ -1,0 +1,8 @@
+# pip alternative; GDAL's Python bindings must match the system GDAL (3.8.4 was used)
+numpy==1.26.4
+scipy==1.13.1
+pandas
+matplotlib==3.9.2
+GDAL==3.8.4
+lifelines
+statsmodels

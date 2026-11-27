@@ -1,0 +1,15 @@
+{
+  "title": "PPR_RAD_Korea v9.10: code for a wildlife-borne peste des petits ruminants incursion model of the Korean Peninsula",
+  "upload_type": "software",
+  "version": "9.10",
+  "license": "MIT",
+  "creators": [
+    {"name": "Ahmad, Saleem", "affiliation": "Chonnam National University"},
+    {"name": "Park, Jinyoung", "affiliation": "Chonnam National University"},
+    {"name": "Jeong, Jin-ho", "affiliation": "Chonnam National University"},
+    {"name": "Jang, Hyewon", "affiliation": "Chonnam National University"},
+    {"name": "Yoo, Dae Sung", "affiliation": "Chonnam National University"}
+  ],
+  "description": "Model code, driver script, environment specification, public inputs of the external test and a runnable synthetic test for the article 'Wildlife-Borne Incursion of Peste des Petits Ruminants into the Republic of Korea, Conditional on Water-Deer Competence: A Reaction–Advection–Diffusion Scenario Analysis' (Microorganisms).",
+  "keywords": ["peste des petits ruminants", "reaction-advection-diffusion", "water deer", "Korean Peninsula", "spatial multi-criteria decision analysis", "transboundary animal disease"]
+}
